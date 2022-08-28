@@ -1,0 +1,40 @@
+*{
+    box-sizing: border-box;
+}
+header{
+ width: 100% ;
+ height: 80px;
+ display:flex;
+ justify-content: space-between;
+ align-items: center;
+ background-color: #FFFFFF;
+ margin: 0 auto;
+
+}
+
+.mensagens{
+    width: 100%;
+    background-color: #e5e5e5;
+
+}
+
+.enviarMensagem{
+    width: 100%;
+    height: 80px;
+    background-color: #FFFFFF;
+    margin: 0 auto;
+}
+li{
+    background-color: #dcdcdc;
+}
+
+.mensagensStatus{
+    background-color: gray;
+}
+.mensagensReservadas{
+    background-color: #FFDEDE;
+
+}
+.mensagensNormais{
+background-color: white;
+}
